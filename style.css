@@ -1,0 +1,103 @@
+a.text-secondary {
+    font-size: 29px !important;
+}
+
+poop {
+    margin-right: 29px !important;
+}
+
+h2 {
+    font-size: 31px !important;
+}
+
+p {
+    font-size: 24px !important;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea,
+form-control {
+    font-family: inherit;
+    font-size: 25% !important;
+    line-height: 1.15;
+    margin: 0;
+}
+
+pppop {
+    font-family: 'nighty';
+}
+
+@media (max-width: 576px) {
+    .filopic {
+        width: 295% !important;
+    }
+
+    .richie_container {
+        outline: 5% solid #ffc100 !important;
+    }
+
+    .filo_column {
+        width: 73% !important;
+        height: 0.46%;
+    }
+}
+
+.filopic {
+    float: left;
+    clear: left;
+    overflow: hidden;
+    width: 822px;
+}
+
+@media (min-width: 767px) and (max-width: 991px) {
+    .filo_column {
+        align-self: center;
+        transform: translateX(52px);
+    }
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+    .filo_column {
+        align-self: center;
+        transform: translateX(16px);
+    }
+}
+
+@media (max-width: 577px) {
+    .filo_column {
+        align-self: center;
+        transform: translateX(12%);
+    }
+}
+
+.richie_container {
+    overflow: hidden;
+    border-radius: 57px;
+    background: #ffc100;
+    outline: 20px solid #ffc100;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    object-fit: scale-down;
+}
+
+.filo_container {
+    overflow: hidden;
+    border-radius: 57px;
+    background: #ffc100;
+    outline: 20px solid #ffc100;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    object-fit: scale-down;
+}
+
+.filo_column {
+    width: 464px;
+    height: 484px !important;
+}
+
+.richie_img {
+    width: 471px;
+}

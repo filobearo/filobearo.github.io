@@ -1,0 +1,187 @@
+hover {
+    cursor: pointer;
+    margin-left: 11px;
+}
+
+div#my-store-86501601.ecwid {
+    padding: 47px 47px 47px 47px !important;
+    background-color: #73d0df !important;
+    margin-top: -50px !important;
+}
+
+.linklonk-v2 {
+    font-family: "nighty";
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    background-clip: border-box;
+    -webkit-text-fill-color: inherit;
+}
+
+.linklonk-v3 {
+    font-family: "nighty";
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    background-clip: border-box;
+    -webkit-text-fill-color: inherit;
+    grid-template-columns: 67px;
+}
+
+@media (max-width:576px) {
+    .root {
+        object-fit: scale-down;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 921px) {
+    .small_links {
+        margin-left: 22% !important;
+        margin-right: 22% !important;
+    }
+}
+
+@media (min-width: 576px) {
+    .root {
+    }
+}
+
+.pssst {
+    cursor: pointer;
+    margin-left: 11px;
+    font-size: 23px;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    grid-template-rows: 100px;
+    gap: 24px;
+    font-weight: lighter;
+    margin-bottom: -95px;
+}
+
+@media min-width: 576px;
+
+@media (max-width: 576px) {
+    .pssst {
+        grid-template-columns: 30fr 10fr;
+        font-size: 4.75vw;
+        margin-bottom: 0.8230000000000004%;
+        padding-bottom: 0px;
+        display: grid;
+        grid-template-rows: 1px;
+    }
+
+    .small_links {
+        display: grid !important;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: 16vw !important;
+        padding-bottom: 0px;
+    }
+
+    .linklonk-v3 {
+        font-size: 7vw;
+    }
+
+    .linklonktitle {
+        font-size: 22vw;
+    }
+
+    .filo {
+        margin-top: 13.186vw;
+    }
+
+    .root {
+    }
+}
+
+.small_links {
+    columns: 5;
+    font-size: 30px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    gap: 8px;
+    grid-template-areas: 'about contact store';
+    padding-bottom: 41px;
+    padding-top: 0px;
+    grid-template-rows: 12px;
+    margin: -126px 32.59% 76px;
+}
+
+.filo {
+    text-align: center;
+    padding-bottom: 0px;
+    font-size: 99px;
+    padding-top: 0px;
+}
+
+contact {
+    writing-mode: vertical-rl !important;
+}
+
+.contact {
+    visibility: visible;
+    white-space: nowrap;
+}
+
+@media only screen and (min-width:479px) and (max-width:767px) {
+}
+
+.filo_v2 {
+}
+
+@media (max-width: 367px) {
+    .filo_v2 {
+        font-size: 25vw !important;
+    }
+
+    .links_resize {
+        font-size: 7vw !important;
+    }
+
+    .small_links_v2 {
+        /* width: 85.583vw */
+    }
+}
+
+.about_contactpage {
+    grid-area: 1 / 4 / 2 / 5;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+.contact_contactpage {
+    word-break: keep-all;
+    white-space: nowrap;
+}
+
+.small_links_v2 {
+    columns: 5;
+    display: grid;
+    grid-template-columns: 15.5fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 79px;
+    gap: 22px;
+    grid-template-areas: 'title home about store contact .';
+    margin-top: -46px;
+    margin-bottom: 83px;
+    font-size: 27px;
+    transform: translateY(70px);
+}
+
+text {
+    font-size: 0px;
+}
+
+p {
+}
+
+h4 {
+}
+
+form {
+    font-size: 112px !important;
+}
+}
