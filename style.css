@@ -21,9 +21,24 @@ select,
 textarea,
 form-control {
     font-family: inherit;
-    font-size: 25% !important;
+
+    /* font-size: 25% !important */
     line-height: 1.15;
-    margin: 0;
+}
+
+.submit_button {
+    font-size: 31px;
+    border-radius: 11px;
+    border-width: 2px;
+    border-color: #a0e7f6;
+    margin-left: 18px;
+    margin-bottom: -;
+    transform: translateY(-14px);
+    width: 255px;
+    background-color: #a0e7f6;
+    letter-spacing: 1px;
+
+    /* transform: translate(90px, -78px) */
 }
 
 pppop {
