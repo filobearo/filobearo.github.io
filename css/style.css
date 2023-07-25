@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'nighty' !important;
-    src: url('../../Nighty.eot');
-    src: url('../../Nighty.eot') format('embedded-opentype');
-    src: url('../../Nighty.woff2') format('woff2');
-    src: url('../../Nighty.woff') format('woff');
-    src: url('../../Nighty.ttf') format('truetype');
-    src: url('../../Nighty.svg') format('svg');
-    src: url('../../Night OTF.otf') format("opentype");
+    src: url('../Nighty.eot');
+    src: url('../Nighty.eot') format('embedded-opentype');
+    src: url('../Nighty.woff2') format('woff2');
+    src: url('../Nighty.woff') format('woff');
+    src: url('../Nighty.ttf') format('truetype');
+    src: url('../Nighty.svg#Nighty') format('svg');
+    src: url('../Night OTF.otf') format("opentype");
 }
 
 hover {
