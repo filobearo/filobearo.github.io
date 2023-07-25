@@ -2847,6 +2847,19 @@ body {
     overflow: hidden;
     min-width: 1614px;
     min-height: 897px;
+
+    @font-face {
+        font-family: 'Nighty' !important;
+        src: url('Nighty.eot');
+        src: url('Nighty.eot?#iefix') format('embedded-opentype'),
+        url('Nighty.woff2') format('woff2'),
+        url('Nighty.woff') format('woff'),
+        url('Nighty.ttf') format('truetype'),
+        url('Nighty.svg#Nighty') format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
 }
 
 /* @media (min-width:479px) and (max-width:767px) {
@@ -2879,28 +2892,4 @@ body {
         padding-right: 366px;
         margin-top: 262px;
     }
-} */
-.pastry-bear {
-}
-
-    }
-}
-
-    }
-}
-
-
-    }
-}
-
-    }
-}
-
-    }
-}
-
-
-}
-
-
-}
+} * */

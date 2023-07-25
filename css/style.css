@@ -1,3 +1,14 @@
+@font-face {
+    font-family: nighty !important;
+    src: url('../filobearo/Nighty.eot');
+    src: url('../filobearo/Nighty.eot') format('embedded-opentype');
+    src: url('../filobearo/Nighty.woff2') format('woff2');
+    src: url('../filobearo/Nighty.woff') format('woff');
+    src: url('../filobearo/filobearo/Nighty.ttf') format('truetype');
+    src: url('../filobearo/Nighty.svg#Nighty') format('svg');
+    src: url("../filobearo/Night OTF.otf") format("opentype");
+}
+
 hover {
     cursor: pointer;
     margin-left: 11px;
@@ -10,7 +21,7 @@ div#my-store-86501601.ecwid {
 }
 
 .linklonk-v2 {
-    font-family: "nighty";
+    font-family: 'nighty';
     color: #000000;
     font-style: normal;
     font-weight: 400;
