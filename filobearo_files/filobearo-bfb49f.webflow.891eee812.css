@@ -2316,7 +2316,7 @@ body {
     margin-top: 19px;
     padding-top: 0px;
     padding-bottom: 0px;
-    font-family: 'nighty';
+    font-family: 'nighty' !important;
 }
 
 @media (min-width: 0px) to (max-width:749) {
