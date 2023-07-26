@@ -10,9 +10,6 @@
     font-style: normal;
     font-display: block;
 }
-@font-face {
-    font-family: 'Nighty OTF' !important;
-    src: url('../Nighty OTF.otf') format("opentype");
 
 hover {
     cursor: pointer;
