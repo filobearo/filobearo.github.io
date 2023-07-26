@@ -9,6 +9,19 @@ html {
     -webkit-text-size-adjust: 100%;
 }
 
+@font-face {
+    font-family: 'nighty';
+    src: url('Nighty.eot');
+    src: url('Nighty.eot') format('embedded-opentype'),
+        url('Nighty.woff2') format('woff2'),
+        url('Nighty.woff') format('woff'),
+        url('Nighty.ttf') format('truetype'),
+        url('Nighty.svg#Nighty') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
 .body {
     margin: 0;
 }
@@ -2291,7 +2304,6 @@ body {
 }
 
 .heading {
-    font-family: 'Nighty otf', sans-serif;
     color: #10afa7;
     font-size: 60px;
     line-height: 44px;
@@ -2304,6 +2316,7 @@ body {
     margin-top: 19px;
     padding-top: 0px;
     padding-bottom: 0px;
+    font-family: 'nighty';
 }
 
 @media (min-width: 0px) to (max-width:749) {
