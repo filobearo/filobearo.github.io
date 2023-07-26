@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'nighty' !important;
+    font-family: 'Nighty' !important;
     src: url('../Nighty.eot');
     src: url('../Nighty.eot') format('embedded-opentype');
     src: url('../Nighty.woff2') format('woff2');
@@ -7,6 +7,8 @@
     src: url('../Nighty.ttf') format('truetype');
     src: url('../Nighty.svg#Nighty') format('svg');
     src: url('../Night OTF.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
 }
 
 hover {
