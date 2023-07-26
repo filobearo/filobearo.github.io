@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'Nighty' !important;
-    src: url('../Nighty.eot');
-    src: url('../Nighty.eot') format('embedded-opentype');
-    src: url('../Nighty.woff2') format('woff2');
-    src: url('../Nighty.woff') format('woff');
-    src: url('../Nighty.ttf') format('truetype');
-    src: url('../Nighty.svg#Nighty') format('svg');
-    src: url('../Nighty OTF.otf') format("opentype");
+    font-family: 'nighty';
+    src: url('Nighty.eot');
+    src: url('Nighty.eot?#iefix') format('embedded-opentype'),
+        url('Nighty.woff2') format('woff2'),
+        url('Nighty.woff') format('woff'),
+        url('Nighty.ttf') format('truetype'),
+        url('Nighty.svg#Nighty') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-display: block;
 }
 @font-face {
     font-family: 'Nighty OTF' !important;
