@@ -6,10 +6,13 @@
     src: url('../Nighty.woff') format('woff');
     src: url('../Nighty.ttf') format('truetype');
     src: url('../Nighty.svg#Nighty') format('svg');
-    src: url('../Night OTF.otf') format("opentype");
+    src: url('../Nighty OTF.otf') format("opentype");
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Nighty OTF' !important;
+    src: url('../Nighty OTF.otf') format("opentype");
 
 hover {
     cursor: pointer;
