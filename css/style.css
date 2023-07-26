@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'nighty';
     src: url('Nighty.eot');
-    src: url('Nighty.eot?#iefix') format('embedded-opentype'),
+    src: url('Nighty.eot') format('embedded-opentype'),
         url('Nighty.woff2') format('woff2'),
         url('Nighty.woff') format('woff'),
         url('Nighty.ttf') format('truetype'),
